@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hei vaan 👋
 
-*Under construction...* 🚧
+Täältä löydät joitakin näytteitä opiskeluideni aikana tekemistäni töistä ja projekteista.
 
 
 <!--
@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+*Under construction...* 🚧
 -->
